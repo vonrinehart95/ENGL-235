@@ -7,4 +7,6 @@ solidified to what I thought, is that it is for an audience. A technical
 writer needs to know the audience and work for them. 
 - The GitHub tutorial went pretty smooth. Having another open tab with 
 the instructions made it easier to go step by step to creating the account.
-I noticed that the instructions were very simple and brief. 
+I noticed that the instructions were very simple and brief. There were also 
+very helpful visual aids that helped in seeing what it looked like before
+and after. 
