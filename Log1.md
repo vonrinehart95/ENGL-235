@@ -38,5 +38,8 @@ I see it in homework, recipes, and many other subjects. I've learned that
 putting together a manual takes methodical effort, and simple but precise
 vocabulary and instruction. I've also started to learn about website/program 
 that is new to me, that is a real life example of a creative workshop environment.
-At first it was overwhelming and confusing, but slowing down and taking it in
-small steps day by day helped in comfort and understanding. 
+At first GitHub was overwhelming and confusing, but slowing down and taking it in
+small steps day by day helped in comfort and understanding. The program has a lot 
+of potential for collaborating with others to get the best results possible. I've
+learned that technical writing is very much still creative writing, but is focused
+and geared towards the reader understanding the subject. 
