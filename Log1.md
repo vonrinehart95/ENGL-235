@@ -26,4 +26,17 @@ feature pictues that help the viewer understand immensely on what is happening.
 - The audience for the Programing Historian is probably made up of editors,
 writers, and readers who are looking to expand their knowlegde on techniques.
 The audeince for the Pierce Hacker I would believe to be made up of mostly 
-students looking for tutorials on things that relate to student life. 
+students looking for tutorials on things that relate to student life.
+I believe the purpose for these two programs is to teach and enrich those
+who need help and being available for those who simply just want to learn.
+I think the writers and designers decided to use public websites because
+they want to reach as many people as possible quickly. Having an open and
+free website can reach to a massive audience. 
+- This week I have learned that technical writing is happening all around
+me, nearly all the time. It takes looking at it in perspective of learning.
+I see it in homework, recipes, and many other subjects. I've learned that 
+putting together a manual takes methodical effort, and simple but precise
+vocabulary and instruction. I've also started to learn about website/program 
+that is new to me, that is a real life example of a creative workshop environment.
+At first it was overwhelming and confusing, but slowing down and taking it in
+small steps day by day helped in comfort and understanding. 
