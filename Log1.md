@@ -23,4 +23,7 @@ and after. Seeing the pictures really helped me keep on track, and not feel
 overwhelmed with instructions. I think the key characteristics are that the
 instructions are simple but precise and in brief steps. The instructions 
 feature pictues that help the viewer understand immensely on what is happening.
-- 
+- The audience for the Programing Historian is probably made up of editors,
+writers, and readers who are looking to expand their knowlegde on techniques.
+The audeince for the Pierce Hacker I would believe to be made up of mostly 
+students looking for tutorials on things that relate to student life. 
