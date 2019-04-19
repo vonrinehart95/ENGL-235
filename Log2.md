@@ -15,5 +15,14 @@ at the same time word it in a way that most could understand. For each
 step I decided to accompany the text with a visual aid. I decided to do 
 that because I know from my experiences with instructions and manuels that
 I apprecieate when they include visual examples that help further describe
-how to do the task at hand. 
-  
+how to do the task at hand.
+- In this classroom scenario, for this project my thought process has been
+encouraged to think outside of what I would alone think. To think about
+other possible perspectives. Having to consider what your audience might
+think slows down the process of what one puts down as the finished product.
+In this class the audience is fairly easy to recognize, all students who have
+reached the 100 level english, and majority of them are younger rather than
+older. I think that when you know that your audience is close to your age, 
+you feel comfortable with the vocabulary you choose to present them with. I
+haven't used any slang or jargon because it isn't formal for instructions,
+but I think that if I did, many of them could pick up on the meaning. 
