@@ -29,7 +29,7 @@ but I think that if I did, many of them could pick up on the meaning. From
 what I can gather from my audience is that they are visual learners, because
 they are using Legos and that they have a desire to create something. 
 - For this project I initially chose to present it in PowerPoint. I like 
-PowerPoint becasue it has a looser more relaxed vibe to it compared to 
+PowerPoint because it has a looser more relaxed vibe to it compared to 
 straight forward documents like Word or TextEdit. It is more of a presentation
 for the audience to interact with. Slides also help move things along at a 
 pace that can be presented at an understandable rate. Lumping everything
@@ -44,9 +44,9 @@ one's hands. I want my audience to be as comfortable as possible when creating,
 and by them having their own copy of the instructions, I think they will be. 
 - This week I have learned that there is so much I still don't know about 
 technology. I've learned to just accept that and move forward regardless of 
-where I am in knowing the deep fundimentals of tech. Such is the case with 
+where I am in knowing the deep fundamentals of tech. Such is the case with 
 Markdown. Looking up Markdown, I felt like a rookie for sure. But the only 
 way I can learn is to try. I downloaded MacDown and that came with a help guide
-that I feel will help calm my worrying. I leanred that these programs are  made
+that I feel will help calm my worrying. I learned that these programs are  made
 to help people, so I'm sure the creators would want to help people learn the 
 programs. I have to remind myself that it's possible to do, even for me.
