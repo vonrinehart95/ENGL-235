@@ -51,4 +51,4 @@ that I feel will help calm my worrying. I learned that these programs are  made
 to help people, so I'm sure the creators would want to help people learn the 
 programs. I have to remind myself that it's possible to do, even for me. Maybe
 I will catch on, time will tell. To quote Wayne Gretzky, "You miss 100 percent
-of the shot you never take."
+of the shots you never take."
