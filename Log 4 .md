@@ -1,0 +1,8 @@
+# Log 4 
+
+
+* 	Analytical reports deal heavily with information that leads to decisions or helps with recommendations. In a sense it is a feedback report. This [guide] (https://penandthepad.com/write-analytical-report-5142708.html) to making an analytical report was helpful because it was short and to the point. It starts with deciding how one wants to format their report. What is included, where sections will placed, and how. Then one is to gather information and resources. This inculdes things like pros, cons, proposals, and aruguements. Once gathered then one can synthesize the data and start validating the information. Then finishing the report with conclusions and recomemendations. 
+
+	This [article] (https://www.datapine.com/blog/analytical-report-example-and-template/) was also very helpful in understanding what an analytical report is and looks like. It displays how data being shown is the main point of the report. Showing data that will lead to decisions moving forward. Here is a sales example from the article. ![Sales data] (https://www.datapine.com/blog/wp-content/uploads/2018/10/sales-performance-dashboard.png) Lots of visuals and numbers to help the viewer understand what the situation is. I liked this article the most because it helped me understand what an analytical report should be made up of and what the data can look like. 
+	
+	This week I learned that analytical reports are very data based documents. There is usually a lot of numbers, percentages, and graphs. When I learned that we would be covering analytical reports I was a little shocked because it was foreign to me. All I knew was that deals with bussiness situations. So this has been nudging me out of my comfort zone a bit, which nods to one of my personal goal outcomes. 
