@@ -12,14 +12,45 @@ Students need
 
 
 ## Advising
-* **Education Planner**
 
+
+###### On the left side-bar click on the *Advising arrow*, then click on *Educational Planner*
+
+![SideBar] (/Users/luke-mac/Desktop/Side_bar_pic.png) 
+
+> The Educational Planner is a planning tool that allows students and advisors to communicate in forming a academic path.
+
+In the education planner the student can specify what degree they are working towards, specify what year it is for the plan, copy data to a new plan, and send the plan to your advisor. 
+
+![edplan] (/Users/luke-mac/Desktop/EdPlan_pic.png)
+
+Your plan is sectioned over four years with summer, fall, winter, and spring quarters. 
+
+When clicking on the plus symbol icon to the right of the quarter, a new small box will appear, allowing the student to add a class by typing the first few letters of the course title as seen in the eSchedule.
+
+Students can also delete academic year sections.
+
+At the bottom students can also leave comments below "User Comment:" to communicate with their advisor.  
 
 
 
 ## Scheduling
+###### On the left side-bar click on *Scheduling arrow*, then click on *Class Availability by Item Number*.
 * **Class Availability**
+> The class Availability page allows students to check on specific classes to see if they are open or closed.
+
+![ClassAvailability] (/Users/luke-mac/Desktop/Class-availability_pic.png)
+
+Students enter the class number, select the quarter/year, and can then check the availability by clicking on the check availability button.  
+
+###### On the left side-bar under Scheduling click on *eSchedule*, you will then be directed to a new tab for the Class Schedule page.
 * **eSchedule**
+
+![eSchedule] (/Users/luke-mac/Desktop/eSchedule_pic.png)
+
+> 
+
+
 
 
 
