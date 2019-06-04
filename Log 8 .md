@@ -1,0 +1,8 @@
+## Log 8 
+
+
+- I like the OER path for this project. I think it gives us students a bit more of an in *depth* challenge in writing. Jason and myself had discussed the topic of cookbooks and how they relate to technical writing earlier in the quarter and he mentioned that writing about cooking would be a great option for the project. In writing for the OER pathway one must cover *themes, principles, and concepts* that can be understood by an audience. I would approach this task by researching well written cookbooks and understanding the mechanics to making a well crafted recipe. After my research I would begin to draft the what, how, and why technical writing is the way it is with cooking. 
+
+- The PierceHacker is also a good option for those who want to refine their tutorial techniques. It would also be good for those who would rather teach someone rather than explain why it is. If I chose this path I would start from scratch with a new tutorial / guide. I would take the experience with my prior project and work off of that to better the learning experience. 
+
+- The self-designed path would take a person with high commitment. It can be done, but one would need to be pretty motivated and driven with their idea. If I took this option I would need a core statement or thesis to build around. I also would need to have a clear vision on what it is and what it will look like. I would create a outline to follow to help stay focuesd and on track. 
